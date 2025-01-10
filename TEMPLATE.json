@@ -1,0 +1,751 @@
+{
+    "id": "mosip.registration.packet.reader",
+    "version": "v1",
+    "responsetime": "2023-11-20T05:07:05.617Z",
+    "metadata": null,
+    "response": {
+        "version": null,
+        "cbeffversion": null,
+        "birInfo": null,
+        "segments": [
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                  
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "2024-05-20T07:24:44.975356Z",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [
+                        "",
+                        ""
+                    ],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            },
+            {
+                "version": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "cbeffversion": {
+                    "major": 1,
+                    "minor": 1
+                },
+                "birInfo": {
+                    "creator": null,
+                    "index": null,
+                    "payload": null,
+                    "integrity": true,
+                    "creationDate": null,
+                    "notValidBefore": null,
+                    "notValidAfter": null
+                },
+                "bdbInfo": {
+                    "challengeResponse": null,
+                    "index": null,
+                    "encryption": null,
+                    "creationDate": "",
+                    "notValidBefore": null,
+                    "notValidAfter": null,
+                    "type": [
+                        ""
+                    ],
+                    "subtype": [],
+                    "level": "RAW",
+                    "product": null,
+                    "purpose": "ENROLL",
+                    "quality": {
+                        "algorithm": {
+                            "organization": "HMAC",
+                            "type": "SHA-256"
+                        },
+                        "score": 0,
+                        "qualityCalculationFailed": null
+                    },
+                    "format": {
+                        "organization": "Mosip",
+                        "type": ""
+                    },
+                    "captureDevice": null,
+                    "featureExtractionAlgorithm": null,
+                    "comparisonAlgorithm": null,
+                    "compressionAlgorithm": null
+                },
+                "bdb": "",
+                "sb": null,
+                "sbInfo": null,
+                "others": null
+            }
+        ]
+    },
+    "errors": []
+}
