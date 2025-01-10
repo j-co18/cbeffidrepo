@@ -4,12 +4,11 @@ import base64
 import os
 
 class FileProcessor:
-    def __init__(self, input_txt_file, target_json_file, output_xml_file, output_json_file,result_json_file):
+    def __init__(self, input_txt_file, target_json_file, output_xml_file, output_json_file):
         self.input_txt_file = input_txt_file
         self.target_json_file = target_json_file
         self.output_xml_file = output_xml_file
         self.output_json_file = output_json_file
-        self.result_json_file = result_json_file
 
     def load_json_from_file(self, file_path):
         """Helper function to load JSON data from a file"""
@@ -188,7 +187,6 @@ def main():
         target_json_file="TEMPLATE.json",
         output_xml_file="output.xml",
         output_json_file="test.json",
-        result_json_file=""
     )
     
     # Run the process
